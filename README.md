@@ -1,2 +1,2 @@
-# ManejodeIndices
-Proyecto realizado en la universidad que muestra el manejo de índices por enlace fuerte.
+# ManejoIndices
+Proyecto de manejo de indices por enlace fuerte.
